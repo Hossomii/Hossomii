@@ -54,11 +54,11 @@ Meu foco atualmente é em desenvolvimento de sistemas: estou na faculdade (ADS -
 
 <img 
     align="left" 
-    alt="SCSS" 
-    title="SCSS"
+    alt="SASS" 
+    title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scss/scss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
 
