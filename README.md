@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Anthony Bugs
+# </> Anthony Bugs
 
 **`Desenvolvedor Full-Stack`**
 
