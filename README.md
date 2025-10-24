@@ -1,14 +1,13 @@
 # 👩🏻‍💻 Anthony Bugs
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
-Meu nome é Anthony da Silveira Bugs, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio em 2022 e atualmente curso Análise e Desenvolvimento de Sistemas pela Uniasselvi.
-
-Faço parte da turma G9 do programa Oracle Next Education, com especialização em back-end Java, onde desenvolvo competências práticas em programação orientada a objetos, boas práticas de código e construção de aplicações escaláveis.
+Fala, pessoal! Me chamo Anthony da Silveira Bugs, tenho 21 anos e sou do Rio Grande do Sul.
+Meu foco atualmente é em desenvolvimento de sistemas: estou na faculdade (ADS - UNIASSELVI) e em duas formações paralelas para acelerar o aprendizado! Faço parte da Turma G9 do ONE + Alura, com ênfase em Java Back-end, e também sou da Turma M2 da Formação Full-stack da Vai na Web.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -42,6 +41,24 @@ Faço parte da turma G9 do programa Oracle Next Education, com especialização 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SCSS" 
+    title="SCSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scss/scss-original.svg" 
 />
 
 
