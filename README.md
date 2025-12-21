@@ -2,9 +2,6 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Fala, pessoal! Me chamo Anthony da Silveira Bugs, tenho 21 anos e sou do Rio Grande do Sul.
-Meu foco atualmente é em desenvolvimento de sistemas: estou na faculdade (ADS - UNIASSELVI) e em duas formações paralelas para acelerar o aprendizado! Faço parte da Turma G9 do ONE + Alura, com ênfase em Java Back-end, e também sou da Turma M2 da Formação Full-stack da Vai na Web.
-
 ---
 
 ### Linguagens e Tecnologias
