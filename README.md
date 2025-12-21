@@ -1,4 +1,4 @@
-# </> Anthony Bugs
+# </> Anthony da Silveira Bugs
 
 **`Desenvolvedor Full-Stack`**
 
