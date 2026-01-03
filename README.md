@@ -1,6 +1,6 @@
 # </> Anthony da Silveira Bugs
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Front-End`**
 
 ---
 
