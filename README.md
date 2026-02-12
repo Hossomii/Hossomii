@@ -52,6 +52,7 @@ Focused on building clean, responsive, and accessible web applications.
 | :--- | :--- | :--- | :--- |
 | **Viva Bem** | Responsive web application built with semantic HTML, CSS, and Figma, focusing on accessibility, responsive layout, and deployed on Vercel. | HTML5, SCSS, Figma, Git/Github | [**Live Demo**](https://viva-bem-vnw-zeta.vercel.app/) [**GitHub Code**](https://github.com/Hossomii/viva-bem-vnw)|
 | **Médicos & Dentistas** | React-based responsive web application designed to solve a real-world problem by organizing and presenting professional healthcare information through a clean, component-based interface, deployed on Vercel. | React, HTML5, CSS3, Figma, Git/Github | [**Live Demo**](https://medicos-e-dentistas-zeta.vercel.app/) [**GitHub Code**](https://github.com/Hossomii/medicos-dentistas-vnw)|
+| **Connect** | React-based responsive web application developed from a Figma layout as the final project of a Frontend module, simulating a social platform that connects volunteers with social initiatives through a clean, component-based and scalable architecture, deployed on Vercel. | React, Vite, SCSS Modules, Figma, Git/GitHub | [**Live Demo**](https://plataforma-connect-vnw.vercel.app/) [**GitHub Code**](https://github.com/Hossomii/plataforma-connect-vnw) |
 
 ---
 
