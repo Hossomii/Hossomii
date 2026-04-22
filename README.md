@@ -1,15 +1,17 @@
 <h1 align="center">Hi, I'm Anthony</h1>
 
 <p align="center">
-Frontend Developer focused on building clean interfaces and interactive experiences.
+Frontend Developer focused on React, UI architecture and interactive experiences.
 </p>
 
 ---
 
 ## Featured Project
 
-🩺 Médicos & Dentistas  
-https://github.com/Hossomii/medicos-dentistas-vnw
+### 🩺 Médicos & Dentistas
+Responsive healthcare website built with React, focused on UI structure and scalability.
+
+🔗 https://github.com/Hossomii/medicos-dentistas-vnw
 
 ---
 
@@ -38,9 +40,15 @@ https://github.com/Hossomii/medicos-dentistas-vnw
 
 ## About
 
-I’m currently improving my skills in React and frontend architecture, while also exploring game development with Unity.
+Building frontend applications with React and scalable styling using SCSS.
 
-Focused on becoming a frontend developer and working on real-world projects.
+Also exploring game development with Unity and C# to create interactive experiences.
+
+---
+
+## Goal
+
+Looking for a Frontend Developer opportunity to work on real-world projects and grow professionally.
 
 ---
 
