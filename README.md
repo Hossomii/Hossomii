@@ -1,71 +1,62 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anthony!;Frontend+Developer;Focused+on+clean,+responsive+interfaces." alt="Typing SVG" />
-  </a>
-</p>
+# 👋 Hi, I'm Anthony
 
-<p align="center">
-I enjoy turning ideas into real interfaces and continuously improving my technical skills.
-<br/>
-Focused on building clean, responsive, and accessible web applications.
-</p>
+Frontend Developer in progress, focused on building clean, responsive interfaces and interactive user experiences.
 
-<div align="center">
+Currently improving my skills with JavaScript and React, while also exploring game development with Unity and C#.
 
 ---
 
-### Technologies & Tools
+## 🚀 Featured Project
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+### 🩺 Médicos & Dentistas
+A responsive institutional website built with React, focused on component-based architecture and scalable styling using SCSS Modules.
 
+🔗 https://github.com/Hossomii/medicos-dentistas-vnw
 
 ---
 
-<div align="left">
+## 🛠️ Tech Stack
 
-### Currently
-*  Studying **Frontend Development**.
-*  Building practical projects to strengthen my foundation.
-*  Looking for an **Internship or Junior Frontend opportunity**.
+**Frontend**
+- HTML5
+- CSS3 / SCSS
+- JavaScript (ES6+)
+- React.js
+- Vite
 
-### Focusing On
-*  **Responsive Layouts:** Mastering Flexbox & Grid.
-*  **Component-Based Development:** Building scalable React applications.
-*  **Clean Code:** Adhering to best practices and semantic standards.
-*  **Collaboration:** Version control with Git & GitHub.
+**Backend (learning)**
+- Node.js
+- Express
 
-</div>
+**Game Development**
+- Unity
+- C#
 
----
-
-### 📂 Featured Projects
-<p align="center">Here are projects where I practice real-world frontend scenarios.</p>
-
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Viva Bem** | Responsive web application built with semantic HTML, CSS, and Figma, focusing on accessibility, responsive layout, and deployed on Vercel. | HTML5, SCSS, Figma, Git/Github | [**Live Demo**](https://viva-bem-vnw-zeta.vercel.app/) [**GitHub Code**](https://github.com/Hossomii/viva-bem-vnw)|
-| **Médicos & Dentistas** | React-based responsive web application designed to solve a real-world problem by organizing and presenting professional healthcare information through a clean, component-based interface, deployed on Vercel. | React, HTML5, CSS3, Figma, Git/Github | [**Live Demo**](https://medicos-e-dentistas-zeta.vercel.app/) [**GitHub Code**](https://github.com/Hossomii/medicos-dentistas-vnw)|
-| **Connect** | React-based responsive web application developed from a Figma layout as the final project of a Frontend module, simulating a social platform that connects volunteers with social initiatives through a clean, component-based and scalable architecture, deployed on Vercel. | React, Vite, SCSS Modules, Figma, Git/GitHub | [**Live Demo**](https://plataforma-connect-vnw.vercel.app/) [**GitHub Code**](https://github.com/Hossomii/plataforma-connect-vnw) |
+**Tools**
+- Git & GitHub
+- Figma
+- VS Code
 
 ---
 
-### Let's Connect!
+## 🎯 Goals
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anthony-silveira-bugs/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+I’m looking for my first opportunity as a Frontend Developer, where I can:
 
-<p align="center">
-  <i> Always learning, always building.</i>
-</p>
+- build modern and responsive interfaces  
+- create interactive user experiences  
+- work on real-world projects and grow as a developer  
 
-</div>
+---
+
+## 📚 Currently Learning
+
+- Advanced React concepts  
+- Frontend architecture and best practices  
+- Game logic and systems using Unity  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/anthony-silveira-bugs/
