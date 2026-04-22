@@ -1,62 +1,53 @@
-# 👋 Hi, I'm Anthony
+<h1 align="center">Hi, I'm Anthony</h1>
 
-Frontend Developer in progress, focused on building clean, responsive interfaces and interactive user experiences.
-
-Currently improving my skills with JavaScript and React, while also exploring game development with Unity and C#.
-
----
-
-## 🚀 Featured Project
-
-### 🩺 Médicos & Dentistas
-A responsive institutional website built with React, focused on component-based architecture and scalable styling using SCSS Modules.
-
-🔗 https://github.com/Hossomii/medicos-dentistas-vnw
+<p align="center">
+Frontend Developer focused on building clean interfaces and interactive experiences.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Project
 
-**Frontend**
-- HTML5
-- CSS3 / SCSS
-- JavaScript (ES6+)
-- React.js
-- Vite
-
-**Backend (learning)**
-- Node.js
-- Express
-
-**Game Development**
-- Unity
-- C#
-
-**Tools**
-- Git & GitHub
-- Figma
-- VS Code
+🩺 Médicos & Dentistas  
+https://github.com/Hossomii/medicos-dentistas-vnw
 
 ---
 
-## 🎯 Goals
+## Tech Stack
 
-I’m looking for my first opportunity as a Frontend Developer, where I can:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-- build modern and responsive interfaces  
-- create interactive user experiences  
-- work on real-world projects and grow as a developer  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## About
 
-- Advanced React concepts  
-- Frontend architecture and best practices  
-- Game logic and systems using Unity  
+I’m currently improving my skills in React and frontend architecture, while also exploring game development with Unity.
+
+Focused on becoming a frontend developer and working on real-world projects.
 
 ---
 
-## 📫 Contact
+## Contact
 
-- LinkedIn: https://www.linkedin.com/in/anthony-silveira-bugs/
+<p>
+  <a href="https://www.linkedin.com/in/anthony-silveira-bugs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anthony_Silveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
