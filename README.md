@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anthony</h1>
 
 <p align="center">
-Frontend Developer focused on React, UI architecture and interactive experiences.
+FullStack Developer focused on React.js/C#, UI architecture and interactive experiences.
 </p>
 
 ---
@@ -48,7 +48,7 @@ Also exploring game development with Unity and C# to create interactive experien
 
 ## Goal
 
-Looking for a Frontend Developer opportunity to work on real-world projects and grow professionally.
+Looking for a FullStack/Frontend/Backend Developer opportunity to work on real-world projects and grow professionally.
 
 ---
 
