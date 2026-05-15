@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anthony</h1>
 
 <p align="center">
-FullStack Developer focused on React.js/C#, UI architecture and interactive experiences.
+FullStack Developer focused on C# (.NET) & JavaScript | Unity & Interactive Systems, UI architecture and interactive experiences.
 </p>
 
 ---
