@@ -38,7 +38,7 @@ Modern fullstack healthcare application developed with scalable architecture, re
 
 ## About
 
-Building frontend applications with React and scalable styling using SCSS.
+Building fullstack applications with React, Node.js and scalable styling using SCSS.
 
 Also exploring game development with Unity and C# to create interactive experiences.
 
