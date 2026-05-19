@@ -8,12 +8,10 @@ FullStack Developer focused on C# (.NET) & JavaScript | Unity & Interactive Syst
 
 ## Featured Project
 
-### 🩺 Médicos & Dentistas
-Responsive healthcare website built with React, focused on UI structure and scalability.
+### 🩺 Médicos & Dentistas Fullstack
+Modern fullstack healthcare application developed with scalable architecture, responsive interface, authentication flows, and integrated backend services for medical and dental scheduling management.
 
-🔗 https://github.com/Hossomii/medicos-dentistas-vnw
-
----
+🔗 https://github.com/Hossomii/medicos-dentistas-fullstack
 
 ## Tech Stack
 
