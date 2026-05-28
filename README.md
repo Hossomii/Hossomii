@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anthony-silveira-bugs/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anthony_Hossomi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/anthony-hossomii-bugs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anthony_Bugs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="mailto:anthonysilveira1011@outlook.com">
