@@ -93,7 +93,7 @@ React • Node.js • Express • PostgreSQL • Prisma
 2D platformer game developed with Unity and C#.  
 Includes gameplay systems, enemy AI, combat logic, collectibles and level progression.
 
-🔗 https://github.com/Hossomii
+🔗 https://github.com/Hossomii/dungeon-escape-2d
 
 ---
 
