@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  FullStack & Backend Developer focused on C#/.NET, JavaScript and interactive systems.<br/>
+  FullStack & Backend Developer focused on C#/.NET, JavaScript/Node.js and interactive systems.<br/>
   Building scalable web applications, backend architectures and gameplay experiences with Unity.
 </p>
 
