@@ -75,7 +75,7 @@
 Interactive basketball game developed in Unity for TNT Energy Drink internal experience.  
 Focused on gameplay systems, score logic, UI feedback, animations and power-up mechanics.
 
-🔗 https://github.com/Hossomii
+🔗 https://github.com/Hossomii/TNT-Basketball
 
 ---
 
