@@ -250,15 +250,15 @@ FOCUS      Gameplay · Score logic · Power-ups · UI feedback
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Hossomii&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E53935&amp;icon_color=E53935&amp;text_color=F0F0F0&amp;ring_color=E53935&amp;include_all_commits=true"
+    srcset="https://github-stats-extended.vercel.app/api?username=Hossomii&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E53935&amp;icon_color=E53935&amp;text_color=F0F0F0&amp;ring_color=E53935&amp;include_all_commits=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Hossomii&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=B71C1C&amp;icon_color=B71C1C&amp;text_color=24292F&amp;ring_color=B71C1C&amp;include_all_commits=true"
+    srcset="https://github-stats-extended.vercel.app/api?username=Hossomii&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=B71C1C&amp;icon_color=B71C1C&amp;text_color=24292F&amp;ring_color=B71C1C&amp;include_all_commits=true"
   />
   <img
     height="175"
-    src="https://github-readme-stats.vercel.app/api?username=Hossomii&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E53935&amp;icon_color=E53935&amp;text_color=8B949E&amp;ring_color=E53935&amp;include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=Hossomii&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E53935&amp;icon_color=E53935&amp;text_color=8B949E&amp;ring_color=E53935&amp;include_all_commits=true"
     alt="Anthony Hossomii GitHub statistics"
   />
 </picture>
@@ -266,15 +266,15 @@ FOCUS      Gameplay · Score logic · Power-ups · UI feedback
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossomii&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E53935&amp;text_color=F0F0F0"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Hossomii&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E53935&amp;text_color=F0F0F0"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossomii&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=B71C1C&amp;text_color=24292F"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Hossomii&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=B71C1C&amp;text_color=24292F"
   />
   <img
     height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossomii&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E53935&amp;text_color=8B949E"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hossomii&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E53935&amp;text_color=8B949E"
     alt="Languages used in Anthony Hossomii public repositories"
   />
 </picture>
