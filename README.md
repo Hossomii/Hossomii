@@ -147,6 +147,22 @@ objective:
 
 ---
 
+## `ls ./credentials`
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/d42e99b5-647e-4f87-bb05-ed3ca5a0bf0b/public_url">
+  <img
+    src="https://images.credly.com/images/d6521452-e64b-4f96-bc20-4758b720757b/blob"
+    width="150"
+    alt="Google AI Fundamentals"
+  />
+</a>
+
+</div>
+
+---
+
 ## `ls ./selected-missions`
 
 <details open>
