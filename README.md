@@ -154,27 +154,28 @@ objective:
 <a href="https://www.credly.com/badges/d42e99b5-647e-4f87-bb05-ed3ca5a0bf0b/public_url">
   <img
     src="https://images.credly.com/images/d6521452-e64b-4f96-bc20-4758b720757b/blob"
-    width="145"
+    width="110"
     alt="Google AI Fundamentals"
   />
 </a>
-
-<img
-  src="https://images.credly.com/images/2f5411ce-c54c-4ddb-83ec-bdd3b28dd2a4/blob"
-  width="145"
-  alt="Google AI Professional Certificate badge"
-/>
-
-<img
-  src="https://images.credly.com/images/a1bec460-6545-4b61-9dd2-e56b7d6ccf63/blob"
-  width="145"
-  alt="Google AI Professional Certificate badge"
-/>
-
+<a href="#">
+  <img
+    src="https://images.credly.com/images/2f5411ce-c54c-4ddb-83ec-bdd3b28dd2a4/blob"
+    width="110"
+    alt="Google AI Professional Certificate badge"
+  />
+</a>
+<a href="#">
+  <img
+    src="https://images.credly.com/images/a1bec460-6545-4b61-9dd2-e56b7d6ccf63/blob"
+    width="110"
+    alt="Google AI Professional Certificate badge"
+  />
+</a>
 <a href="https://learn.microsoft.com/pt-br/users/anthonydasilveirabugs-9452/credentials/certification/github-foundations">
   <img
     src="./assets/badges/github-foundations.png"
-    width="145"
+    width="110"
     alt="GitHub Foundations Certification"
   />
 </a>
@@ -186,7 +187,6 @@ objective:
 </sub>
 
 </div>
-
 ---
 
 ## `ls ./selected-missions`
