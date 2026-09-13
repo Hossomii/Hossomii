@@ -2,8 +2,8 @@
 
 <pre>
 ┌──────────────────────────────────────────────────────────┐
-│              HOSSOMII / DEVELOPER PROFILE                │
-│  backend engineering × game systems × visual thinking    │
+│          HOSSOMII / SOFTWARE & SECURITY ENGINEERING      │
+│      software × systems × security × visual thinking     │
 └──────────────────────────────────────────────────────────┘
 </pre>
 
@@ -11,14 +11,14 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=E53935&center=true&vCenter=true&width=720&lines=Backend+Developer+focused+on+C%23+%2F+.NET;From+game+systems+to+reliable+backend+software;Code.+Games.+Design.+One+identity."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=E53935&center=true&vCenter=true&width=760&lines=Software+Engineering+%C3%97+Security+Engineering;Building+software+with+security+in+mind;Software.+Systems.+Security.+One+identity."
     alt="Typing introduction"
   />
 </a>
 
 <br/>
 
-<kbd>BACKEND</kbd> <kbd>GAMES</kbd> <kbd>DESIGN</kbd>
+<kbd>SOFTWARE</kbd> <kbd>SYSTEMS</kbd> <kbd>SECURITY</kbd>
 
 <br/><br/>
 
@@ -44,28 +44,32 @@
 ```csharp
 namespace Hossomii;
 
-public sealed record DeveloperProfile(
+public sealed record EngineerProfile(
     string Name,
-    string Role,
-    string MainStack,
     string Background,
-    string CurrentGoal
+    string EngineeringBase,
+    string CurrentDirection,
+    string Focus
 );
 
-var anthony = new DeveloperProfile(
+var anthony = new EngineerProfile(
     Name: "Anthony Hossomii Bugs",
-    Role: "Backend Developer",
-    MainStack: "C# / .NET",
-    Background: "Full Stack + Game Development",
-    CurrentGoal: "First professional opportunity in Backend Engineering"
+    Background: "Systems Analysis & Development",
+    EngineeringBase: "Web, APIs, Databases and Game Systems",
+    CurrentDirection: "Security Engineering",
+    Focus: "Cloud Security + DevSecOps + AppSec"
 );
 ```
 
-I'm a **Systems Analysis and Development graduate from Brazil**, currently specializing in Backend Development with **C# and .NET**.
+I'm a **Systems Analysis and Development graduate from Brazil**, continuing my academic path in **Software Engineering**.
 
-My path started with games and interactive systems, expanded into Full Stack development and now converges on backend engineering. I enjoy building software that is well-structured underneath, intuitive at the point of use and intentional in every detail.
+My background is in software development, working with web applications, APIs, databases and interactive systems using technologies such as **TypeScript, Node.js, C#/.NET, SQL and Git/GitHub**.
 
-> I came from games, learned through the web and chose backend as the system I want to master.
+I'm currently directing that engineering base toward **Security Engineering**, with a growing focus on systems, networking, Cloud Security, DevSecOps and AppSec.
+
+What interests me most today is understanding not only how software works, but also **how it can fail, how it can be exploited and how those problems can be prevented from the beginning**.
+
+> Build the system. Understand the system. Secure the system.
 
 ---
 
@@ -75,23 +79,39 @@ My path started with games and interactive systems, expanded into Full Stack dev
 status: building
 
 main_quest:
-  role: Backend Developer
-  specialization: C# / .NET
-  target: Junior or Internship opportunity
+  base: Software Engineering
+  direction: Security Engineering
+  specialization:
+    - Cloud Security
+    - DevSecOps
+  complementary:
+    - AppSec
 
 current_training:
-  - Microsoft Back-End Developer — Coursera
-  - Backend .NET — Alura
   - Google AI Professional Certificate — Coursera
+  - Sensibilização para a Segurança Digital — Cisco Networking Academy
+  - Security Engineering Foundations
+  - Software Engineering — Instituto Infnet
 
-focus:
-  - C# fundamentals and object-oriented programming
-  - ASP.NET Core and REST APIs
-  - SQL and relational data modeling
-  - Git, debugging and software architecture
+current_foundations:
+  - Linux and terminal
+  - Computer networking
+  - HTTP and web fundamentals
+  - Git and GitHub
+  - Software development
+  - Security fundamentals
+
+next_layers:
+  - Python and Bash for automation
+  - Windows and PowerShell
+  - OWASP and application security
+  - Docker and container security
+  - GitHub Actions and CI/CD
+  - AWS and IAM
+  - Terraform and Infrastructure as Code
 
 objective:
-  Build reliable applications without skipping the fundamentals.
+  Understand how systems are built, operated and secured.
 ```
 
 ---
@@ -101,45 +121,76 @@ objective:
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>Backend Core</h3>
-      <p>Main career path</p>
+      <h3>Software Engineering</h3>
+      <p>Engineering foundation</p>
       <br/>
       <img
-        src="https://skillicons.dev/icons?i=cs,dotnet,postgres&theme=dark"
-        alt="C Sharp, .NET and PostgreSQL"
+        src="https://skillicons.dev/icons?i=ts,nodejs,cs,dotnet,postgres&theme=dark"
+        alt="TypeScript, Node.js, C Sharp, .NET and PostgreSQL"
       />
       <br/><br/>
       <sub>
-        C# · .NET · PostgreSQL<br/>
-        REST APIs · SQL · OOP
+        TypeScript · Node.js · C#/.NET<br/>
+        PostgreSQL · REST APIs · SQL
       </sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>Web Experience</h3>
-      <p>Full Stack background</p>
+      <h3>Web & Product</h3>
+      <p>Full Stack experience</p>
       <br/>
       <img
-        src="https://skillicons.dev/icons?i=js,nodejs,express,react,vite,sass&theme=dark"
-        alt="JavaScript, Node, Express, React, Vite and Sass"
+        src="https://skillicons.dev/icons?i=js,react,express,vite,sass,html,css&theme=dark"
+        alt="JavaScript, React, Express, Vite, Sass, HTML and CSS"
       />
       <br/><br/>
       <sub>
-        JavaScript · Node.js · Express<br/>
-        React · Vite · Sass
+        JavaScript · React · Express<br/>
+        HTML · CSS · Sass · Vite
       </sub>
     </td>
     <td width="33%" align="center" valign="top">
+      <h3>Systems & Tooling</h3>
+      <p>Current expansion</p>
+      <br/>
+      <img
+        src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio&theme=dark"
+        alt="Linux, Git, GitHub, VS Code and Visual Studio"
+      />
+      <br/><br/>
+      <sub>
+        Linux · Git · GitHub<br/>
+        Terminal · Systems fundamentals
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Security Direction</h3>
+      <p>Building depth beyond application code</p>
+      <br/>
+      <sub>
+        Networking · Linux · HTTP<br/>
+        Security Engineering · AppSec<br/>
+        Cloud Security · DevSecOps
+      </sub>
+    </td>
+    <td width="50%" align="center" valign="top">
       <h3>Creative Systems</h3>
-      <p>Games and visual thinking</p>
+      <p>Where the journey started</p>
       <br/>
       <img
-        src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,git,github&theme=dark"
-        alt="Unity, Visual Studio, VS Code, Git and GitHub"
+        src="https://skillicons.dev/icons?i=unity,cs&theme=dark"
+        alt="Unity and C Sharp"
       />
       <br/><br/>
       <sub>
-        Unity · Gameplay Systems<br/>
-        UI · Git · GitHub
+        Unity · C# · Gameplay Systems<br/>
+        UI · Interactive experiences
       </sub>
     </td>
   </tr>
@@ -162,14 +213,14 @@ objective:
   <img
     src="https://images.credly.com/images/2f5411ce-c54c-4ddb-83ec-bdd3b28dd2a4/blob"
     width="110"
-    alt="Google AI Professional Certificate badge"
+    alt="Google AI credential"
   />
 </a>
 <a href="#">
   <img
     src="https://images.credly.com/images/a1bec460-6545-4b61-9dd2-e56b7d6ccf63/blob"
     width="110"
-    alt="Google AI Professional Certificate badge"
+    alt="Google AI credential"
   />
 </a>
 <a href="https://learn.microsoft.com/pt-br/users/anthonydasilveirabugs-9452/credentials/certification/github-foundations">
@@ -187,13 +238,35 @@ objective:
 </sub>
 
 </div>
+
 ---
 
 ## `ls ./selected-missions`
 
 <details open>
 <summary>
-  <strong>MISSION 01 - Médicos & Dentistas Fullstack</strong>
+  <strong>MISSION 01 — HOSSOMII OS</strong>
+</summary>
+
+<br/>
+
+Immersive portfolio inspired by early-2000s operating systems, built as an interactive desktop experience instead of a traditional portfolio page.
+
+```text
+TYPE       Interactive Portfolio
+STACK      React · TypeScript
+CONCEPT    Fictional desktop operating system
+FOCUS      Architecture · State · UI systems · Interaction
+STATUS     In development
+```
+
+The project combines software engineering, interface design and systems-inspired interactions into a single environment.
+
+</details>
+
+<details>
+<summary>
+  <strong>MISSION 02 — Médicos & Dentistas Fullstack</strong>
 </summary>
 
 <br/>
@@ -213,7 +286,7 @@ FOCUS      API integration · Data persistence · Responsive UI
 
 <details>
 <summary>
-  <strong>MISSION 02 - TNT Basketball</strong>
+  <strong>MISSION 03 — TNT Basketball</strong>
 </summary>
 
 <br/>
@@ -238,10 +311,13 @@ FOCUS      Gameplay · Score logic · Power-ups · UI feedback
 ```diff
 + START     Software fundamentals and Systems Analysis & Development
 + BUILD     Unity projects and interactive gameplay experiences
-+ EXPAND    Full Stack applications with frontend, APIs and databases
++ EXPAND    Full Stack applications, APIs and relational databases
++ CERTIFY   GitHub Foundations
 + GRADUATE  Systems Analysis & Development
-> FOCUS     Backend Engineering with C# and .NET
-- NEXT      First Junior or Internship opportunity in Backend
++ EVOLVE    Software Engineering as the professional foundation
+> FOCUS     Security Engineering, systems and networking
+> BUILD     Linux + networking + security foundations
+- NEXT      Cloud Security + DevSecOps + AppSec
 ```
 
 ---
@@ -251,13 +327,62 @@ FOCUS      Gameplay · Score logic · Power-ups · UI feedback
 ```text
 01. Fundamentals before shortcuts.
 
-02. Code should be understandable by the next person.
+02. Understand the system before trying to secure it.
 
-03. Design is part of the product, not decoration.
+03. Code should be understandable by the next person.
 
-04. Build, test, document, improve.
+04. Security should be considered before production, not after an incident.
 
-05. Every project should teach something the previous one did not.
+05. Build, test, observe, document and improve.
+
+06. Automation should remove repetition, not understanding.
+
+07. Every project should teach something the previous one did not.
+```
+
+---
+
+## `cat security-roadmap.txt`
+
+```text
+Software Engineering
+        |
+        v
+Linux + Systems
+        |
+        v
+Networking + HTTP
+        |
+        v
+Security Fundamentals
+        |
+        +-------------------+
+        |                   |
+        v                   v
+     AppSec              Automation
+        |             Python / Bash
+        |                   |
+        +---------+---------+
+                  |
+                  v
+            Docker + CI/CD
+                  |
+                  v
+             Cloud / AWS
+                  |
+                  v
+                 IAM
+                  |
+                  v
+             Terraform
+                  |
+                  v
+         Security Engineering
+                  |
+          +-------+-------+
+          |               |
+          v               v
+   Cloud Security      DevSecOps
 ```
 
 ---
@@ -322,10 +447,11 @@ FOCUS      Gameplay · Score logic · Power-ups · UI feedback
 ```console
 anthony@github:~$ ./connect.sh
 
-status    open_to_work
-roles     Backend Developer | .NET Developer | Software Engineering
-level     Junior | Internship
-location  Brazil | Remote
+status     open_to_work
+direction  Software Engineering -> Security Engineering
+interests  Backend | AppSec | Cloud | DevSecOps | Security
+level      Junior | Internship
+location   Brazil | Remote
 ```
 
 <div align="center">
@@ -341,7 +467,7 @@ location  Brazil | Remote
 
 <pre>
 System status: online
-Thanks for visiting.
+Building software. Learning systems. Thinking about security.
 </pre>
 
 </div>
