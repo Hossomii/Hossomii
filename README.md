@@ -34,6 +34,12 @@
     alt="Email"
   />
 </a>
+<a href="https://www.credly.com/users/anthony-da-silveira-bugs">
+  <img
+    src="https://img.shields.io/badge/Credly-111111?style=for-the-badge&logo=credly&logoColor=E53935"
+    alt="Credly"
+  />
+</a>
 
 </div>
 
@@ -87,10 +93,15 @@ main_quest:
   complementary:
     - AppSec
 
-current_training:
+recently_completed:
   - Google AI Professional Certificate — Coursera
+  - GitHub Foundations Certification — Microsoft
+
+current_training:
   - Sensibilização para a Segurança Digital — Cisco Networking Academy
   - Security Engineering Foundations
+
+upcoming:
   - Software Engineering — Instituto Infnet
 
 current_foundations:
@@ -100,6 +111,8 @@ current_foundations:
   - Git and GitHub
   - Software development
   - Security fundamentals
+  - AI-assisted workflows
+  - Responsible AI
 
 next_layers:
   - Python and Bash for automation
@@ -119,81 +132,69 @@ objective:
 ## `tree ./skill-set`
 
 <table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>Software Engineering</h3>
-      <p>Engineering foundation</p>
-      <br/>
-      <img
-        src="https://skillicons.dev/icons?i=ts,nodejs,cs,dotnet,postgres&theme=dark"
-        alt="TypeScript, Node.js, C Sharp, .NET and PostgreSQL"
-      />
-      <br/><br/>
-      <sub>
-        TypeScript · Node.js · C#/.NET<br/>
-        PostgreSQL · REST APIs · SQL
-      </sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Web & Product</h3>
-      <p>Full Stack experience</p>
-      <br/>
-      <img
-        src="https://skillicons.dev/icons?i=js,react,express,vite,sass,html,css&theme=dark"
-        alt="JavaScript, React, Express, Vite, Sass, HTML and CSS"
-      />
-      <br/><br/>
-      <sub>
-        JavaScript · React · Express<br/>
-        HTML · CSS · Sass · Vite
-      </sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Systems & Tooling</h3>
-      <p>Current expansion</p>
-      <br/>
-      <img
-        src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio&theme=dark"
-        alt="Linux, Git, GitHub, VS Code and Visual Studio"
-      />
-      <br/><br/>
-      <sub>
-        Linux · Git · GitHub<br/>
-        Terminal · Systems fundamentals
-      </sub>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<h3>Software Engineering</h3>
+<p>Engineering foundation</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,cs,dotnet,postgres&theme=dark" alt="TypeScript, Node.js, C Sharp, .NET and PostgreSQL"/>
+<br/><br/>
+<sub>
+TypeScript · Node.js · C#/.NET<br/>
+PostgreSQL · REST APIs · SQL
+</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>Web & Product</h3>
+<p>Full Stack experience</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=js,react,express,vite,sass,html,css&theme=dark" alt="JavaScript, React, Express, Vite, Sass, HTML and CSS"/>
+<br/><br/>
+<sub>
+JavaScript · React · Express<br/>
+HTML · CSS · Sass · Vite
+</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>Systems & Tooling</h3>
+<p>Current expansion</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio&theme=dark" alt="Linux, Git, GitHub, VS Code and Visual Studio"/>
+<br/><br/>
+<sub>
+Linux · Git · GitHub<br/>
+Terminal · Systems fundamentals
+</sub>
+</td>
+</tr>
 </table>
 
 <br/>
 
 <table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Security Direction</h3>
-      <p>Building depth beyond application code</p>
-      <br/>
-      <sub>
-        Networking · Linux · HTTP<br/>
-        Security Engineering · AppSec<br/>
-        Cloud Security · DevSecOps
-      </sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>Creative Systems</h3>
-      <p>Where the journey started</p>
-      <br/>
-      <img
-        src="https://skillicons.dev/icons?i=unity,cs&theme=dark"
-        alt="Unity and C Sharp"
-      />
-      <br/><br/>
-      <sub>
-        Unity · C# · Gameplay Systems<br/>
-        UI · Interactive experiences
-      </sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>Security Direction</h3>
+<p>Building depth beyond application code</p>
+<br/>
+<sub>
+Networking · Linux · HTTP<br/>
+Security Engineering · AppSec<br/>
+Cloud Security · DevSecOps
+</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>Creative Systems</h3>
+<p>Where the journey started</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Unity and C Sharp"/>
+<br/><br/>
+<sub>
+Unity · C# · Gameplay Systems<br/>
+UI · Interactive experiences
+</sub>
+</td>
+</tr>
 </table>
 
 ---
@@ -202,39 +203,81 @@ objective:
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/d42e99b5-647e-4f87-bb05-ed3ca5a0bf0b/public_url">
-  <img
-    src="https://images.credly.com/images/d6521452-e64b-4f96-bc20-4758b720757b/blob"
-    width="110"
-    alt="Google AI Fundamentals"
-  />
-</a>
-<a href="#">
-  <img
-    src="https://images.credly.com/images/2f5411ce-c54c-4ddb-83ec-bdd3b28dd2a4/blob"
-    width="110"
-    alt="Google AI credential"
-  />
-</a>
-<a href="#">
-  <img
-    src="https://images.credly.com/images/a1bec460-6545-4b61-9dd2-e56b7d6ccf63/blob"
-    width="110"
-    alt="Google AI credential"
-  />
-</a>
-<a href="https://learn.microsoft.com/pt-br/users/anthonydasilveirabugs-9452/credentials/certification/github-foundations">
+<kbd>PROFESSIONAL CERTIFICATIONS</kbd>
+
+<br/><br/>
+
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/AnthonydaSilveiraBugs-9452/37FD992BFF27F121?sharingId=984CB4ED2FC155E1">
   <img
     src="./assets/badges/github-foundations.png"
-    width="110"
+    width="120"
     alt="GitHub Foundations Certification"
+  />
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/0508fd5a-db3a-4e74-8e18-a6e86bbb7fb9">
+  <img
+    src="./assets/badges/google-ai-professional-certificate.png"
+    width="120"
+    alt="Google AI Professional Certificate"
   />
 </a>
 
 <br/><br/>
 
 <sub>
-  Verified credentials in Artificial Intelligence, GitHub and software development fundamentals.
+GitHub Foundations · Google AI Professional Certificate
+</sub>
+
+<br/><br/><br/>
+
+<kbd>APPLIED AI CREDENTIALS</kbd>
+
+<br/><br/>
+
+<a href="https://www.credly.com/earner/earned/badge/9d26a4c9-5d4a-4e72-80a1-f2d7426cc729">
+  <img
+    src="./assets/badges/google-ai-for-data-analysis.png"
+    width="110"
+    alt="Google AI for Data Analysis"
+  />
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/9ab2d130-fa92-4c80-8e10-5245c995708a">
+  <img
+    src="./assets/badges/google-ai-for-app-building.png"
+    width="110"
+    alt="Google AI for App Building"
+  />
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/712b1ba5-5bc2-4950-bb5b-f9e4b989dd55">
+  <img
+    src="./assets/badges/google-ai-for-app-deployment.png"
+    width="110"
+    alt="Google AI for App Deployment"
+  />
+</a>
+
+<br/><br/>
+
+<sub>
+Data Analysis · AI App Building · AI App Deployment
+</sub>
+
+<br/><br/><br/>
+
+<a href="https://www.credly.com/users/anthony-da-silveira-bugs">
+  <img
+    src="https://img.shields.io/badge/VIEW_ALL-CREDLY-111111?style=for-the-badge&logo=credly&logoColor=E53935"
+    alt="View all credentials on Credly"
+  />
+</a>
+
+<br/><br/>
+
+<sub>
+Click any credential to verify it directly with Microsoft or Credly.
 </sub>
 
 </div>
@@ -245,7 +288,7 @@ objective:
 
 <details open>
 <summary>
-  <strong>MISSION 01 — HOSSOMII OS</strong>
+<strong>MISSION 01 — HOSSOMII OS</strong>
 </summary>
 
 <br/>
@@ -266,7 +309,7 @@ The project combines software engineering, interface design and systems-inspired
 
 <details>
 <summary>
-  <strong>MISSION 02 — Médicos & Dentistas Fullstack</strong>
+<strong>MISSION 02 — Médicos & Dentistas Fullstack</strong>
 </summary>
 
 <br/>
@@ -286,7 +329,7 @@ FOCUS      API integration · Data persistence · Responsive UI
 
 <details>
 <summary>
-  <strong>MISSION 03 — TNT Basketball</strong>
+<strong>MISSION 03 — TNT Basketball</strong>
 </summary>
 
 <br/>
@@ -314,6 +357,7 @@ FOCUS      Gameplay · Score logic · Power-ups · UI feedback
 + EXPAND    Full Stack applications, APIs and relational databases
 + CERTIFY   GitHub Foundations
 + GRADUATE  Systems Analysis & Development
++ CERTIFY   Google AI Professional Certificate
 + EVOLVE    Software Engineering as the professional foundation
 > FOCUS     Security Engineering, systems and networking
 > BUILD     Linux + networking + security foundations
@@ -391,7 +435,7 @@ Security Fundamentals
 
 <details>
 <summary>
-  <strong>Open GitHub statistics</strong>
+<strong>Open GitHub statistics</strong>
 </summary>
 
 <br/>
@@ -433,7 +477,7 @@ Security Fundamentals
 <br/>
 
 <sub>
-  Language distribution reflects public repositories, not proficiency.
+Language distribution reflects public repositories, not proficiency.
 </sub>
 
 </div>
