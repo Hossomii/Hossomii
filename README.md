@@ -96,9 +96,9 @@ main_quest:
 recently_completed:
   - Google AI Professional Certificate — Coursera
   - GitHub Foundations Certification — Microsoft
+  - Sensibilização para a Segurança Digital — Cisco Networking Academy / ESCOM
 
 current_training:
-  - Sensibilização para a Segurança Digital — Cisco Networking Academy
   - Security Engineering Foundations
 
 upcoming:
@@ -267,6 +267,25 @@ Data Analysis · AI App Building · AI App Deployment
 
 <br/><br/><br/>
 
+<kbd>SECURITY CREDENTIALS</kbd>
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/50e51051-7a7a-49c8-a218-2f062aa3ec77/public_url">
+  <img
+    src="https://img.shields.io/badge/Digital_Safety_%26_Security_Awareness-Cisco-111111?style=for-the-badge&logo=cisco&logoColor=E53935"
+    alt="Digital Safety and Security Awareness — Cisco Networking Academy"
+  />
+</a>
+
+<br/><br/>
+
+<sub>
+Digital Safety & Security Awareness · Cisco Networking Academy · ESCOM
+</sub>
+
+<br/><br/><br/>
+
 <a href="https://www.credly.com/users/anthony-da-silveira-bugs">
   <img
     src="https://img.shields.io/badge/VIEW_ALL-CREDLY-111111?style=for-the-badge&logo=credly&logoColor=E53935"
@@ -358,6 +377,7 @@ FOCUS      Gameplay · Score logic · Power-ups · UI feedback
 + CERTIFY   GitHub Foundations
 + GRADUATE  Systems Analysis & Development
 + CERTIFY   Google AI Professional Certificate
++ CERTIFY   Digital Safety & Security Awareness — Cisco Networking Academy
 + EVOLVE    Software Engineering as the professional foundation
 > FOCUS     Security Engineering, systems and networking
 > BUILD     Linux + networking + security foundations
