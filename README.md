@@ -96,7 +96,7 @@ main_quest:
 recently_completed:
   - Google AI Professional Certificate — Coursera
   - GitHub Foundations Certification — Microsoft
-  - Sensibilização para a Segurança Digital — Cisco Networking Academy / ESCOM
+  - Digital Safety and Security Awareness — Cisco Networking Academy / ESCOM
 
 current_training:
   - Security Engineering Foundations
@@ -144,6 +144,7 @@ TypeScript · Node.js · C#/.NET<br/>
 PostgreSQL · REST APIs · SQL
 </sub>
 </td>
+
 <td width="33%" align="center" valign="top">
 <h3>Web & Product</h3>
 <p>Full Stack experience</p>
@@ -155,6 +156,7 @@ JavaScript · React · Express<br/>
 HTML · CSS · Sass · Vite
 </sub>
 </td>
+
 <td width="33%" align="center" valign="top">
 <h3>Systems & Tooling</h3>
 <p>Current expansion</p>
@@ -183,6 +185,7 @@ Security Engineering · AppSec<br/>
 Cloud Security · DevSecOps
 </sub>
 </td>
+
 <td width="50%" align="center" valign="top">
 <h3>Creative Systems</h3>
 <p>Where the journey started</p>
@@ -231,6 +234,26 @@ GitHub Foundations · Google AI Professional Certificate
 
 <br/><br/><br/>
 
+<kbd>SECURITY CREDENTIALS</kbd>
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/50e51051-7a7a-49c8-a218-2f062aa3ec77/public_url">
+  <img
+    src="./assets/badges/digital-safety-and-security-awareness.png"
+    width="120"
+    alt="Digital Safety and Security Awareness"
+  />
+</a>
+
+<br/><br/>
+
+<sub>
+Digital Safety & Security Awareness · Cisco Networking Academy · ESCOM
+</sub>
+
+<br/><br/><br/>
+
 <kbd>APPLIED AI CREDENTIALS</kbd>
 
 <br/><br/>
@@ -263,25 +286,6 @@ GitHub Foundations · Google AI Professional Certificate
 
 <sub>
 Data Analysis · AI App Building · AI App Deployment
-</sub>
-
-<br/><br/><br/>
-
-<kbd>SECURITY CREDENTIALS</kbd>
-
-<br/><br/>
-
-<a href="https://www.credly.com/badges/50e51051-7a7a-49c8-a218-2f062aa3ec77/public_url">
-  <img
-    src="https://img.shields.io/badge/Digital_Safety_%26_Security_Awareness-Cisco-111111?style=for-the-badge&logo=cisco&logoColor=E53935"
-    alt="Digital Safety and Security Awareness — Cisco Networking Academy"
-  />
-</a>
-
-<br/><br/>
-
-<sub>
-Digital Safety & Security Awareness · Cisco Networking Academy · ESCOM
 </sub>
 
 <br/><br/><br/>
@@ -377,7 +381,7 @@ FOCUS      Gameplay · Score logic · Power-ups · UI feedback
 + CERTIFY   GitHub Foundations
 + GRADUATE  Systems Analysis & Development
 + CERTIFY   Google AI Professional Certificate
-+ CERTIFY   Digital Safety & Security Awareness — Cisco Networking Academy
++ CERTIFY   Digital Safety & Security Awareness
 + EVOLVE    Software Engineering as the professional foundation
 > FOCUS     Security Engineering, systems and networking
 > BUILD     Linux + networking + security foundations
